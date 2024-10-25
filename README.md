@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+-Software developer student
+-Interested in Back-end development and cyber security.
+-Leaning Java,Kotlin,HTML,CSS,JavaScript,mySQL
+-Interested in participating in small projects
+
+
 <!--
 **n3oari/n3oari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
