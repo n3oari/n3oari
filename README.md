@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - Software developer student
-- Interested in Back-end development, cyber security and networks
+- Interested in Back-end development, Cybersecurity and Networks
 ## Learning right now
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,linux,bootstrap,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,linux,bootstrap,git,github)](https://skillicons.dev)
 
 ## Interesed in
 [![My Skills](https://skillicons.dev/icons?i=kotlin,docker)](https://skillicons.dev)
