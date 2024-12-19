@@ -1,13 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
 - Software developer student
 - Interested in Back-end development, cyber security and networks
-- Leaning Java,Kotlin,HTML,CSS,JavaScript,mySQL
-- Interested in participating in small projects
+## Learning right now
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,javascript,linux,bootstrap,git,github)](https://skillicons.dev)
 
-  
-
-
+## Interesed in
+[![My Skills](https://skillicons.dev/icons?i=kotlin,docker)](https://skillicons.dev)
 <!--
 **n3oari/n3oari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
