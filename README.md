@@ -1,9 +1,11 @@
 ## Hi there 👋
 
--Software developer student
--Interested in Back-end development and cyber security.
--Leaning Java,Kotlin,HTML,CSS,JavaScript,mySQL
--Interested in participating in small projects
+- Software developer student
+- Interested in Back-end development, cyber security and networks
+- Leaning Java,Kotlin,HTML,CSS,JavaScript,mySQL
+- Interested in participating in small projects
+
+  
 
 
 <!--
