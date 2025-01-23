@@ -1,6 +1,6 @@
 # Sobre mi
 
-- **Soy estudiante de Desarrollo de Software**
+- **Estudiante de Desarrollo de Software**
 - **Interesado en el desarrollo backend**
 - **Interesado en redes y ciberseguridad**
 
