@@ -1,4 +1,4 @@
-# About me
+## About me
 - **Software developer student**
 - **Self-taught cybersecurity student focusing on penetration testing and ethical hacking.**
 
@@ -15,3 +15,4 @@
 ## Goals
 - Obtain OSCP certification
 - Work on backend development projects
+- Develop tools focused on security
