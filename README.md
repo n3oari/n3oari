@@ -1,6 +1,6 @@
 ## About me
 - **Software developer student**
-- **Self-taught cybersecurity student focusing on penetration testing and ethical hacking.**
+- **Self-taught cybersecurity student**
 
 ## Stack
 
