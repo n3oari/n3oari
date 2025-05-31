@@ -1,5 +1,5 @@
 ## About me
-- **Software developer and cybersecurity student**
+- Software developer and cybersecurity student
 ## Goals
 - Obtain OSCP certification
 - Work on backend development projects
